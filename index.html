@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Weather Station</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device width, initial-scale=1">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/static/myapp/bootstrap.min.css">
+  <script src="/static/myapp/jquery.min.js"></script>
+  <script src="/static/myapp/bootstrap.min.js"></script>
+  <body>
+    <div class="container-fluid">
+      <center><h1>Weather Station</h1></center>
+      <center><h3>Stevens Institute of Technology</h3></center>
+      <center><h4>{{date_time}}</h4></center>
+      <div class="row">
+        <div class="col-sm-3"><h4>Temperature</h4></div>
+        <div class="col-sm-3"><h4>{{temperature}}&deg;F</h4></div>
+        <div class="col-sm-6" style="height:300px">
+        <div id="map-canvas"></div></div>
+      </div>
+    </div>
+  </body>
+  <style>    #map-canvas {
+      width: 400px;
+      height: 300px;
+    }
+  </style>
+  <body>
+	<div id="map-canvas"></div>
+  </body>
+  <script type="text/javascript" src="https://webapi.amap.com/maps?v=1.4.8&key=YOUR_KEY"></script>
+  <script>
+	window.onload = function(){
+		var map = new AMap.Map("map-canvas",{
+			zoom: 16,
+			center: [{{lat}},{{lon}}]
+		});
+	}
+  </script>
+</head>
+</html>
