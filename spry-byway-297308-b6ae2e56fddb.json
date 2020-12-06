@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "spry-byway-297308",
+  "private_key_id": "b6ae2e56fddb80d943a7f0aee0f487e266b57f1d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDtNgQwnPH5h8Us\nMI0sEfqsGDPVNIGkQwKNrUu06tQoClVUVuEBNDdJdOdACmRbcfUI8bAbL2XcYaRu\n05YSZEB5otXiFeTIhvV7npB8iCEav5afYEw7AmWG0wt3HzFNskyDZaxi10fBFYrd\nEAVJ2Nk/iDcrZ4bs/HtOlfbxdRVkOMQ+ukzJXoH+UYBrfdMewshRwlV9gf8Uq81b\nJdaUcmvXTTawEg74AnbD7T9vRKCOKC3urXkIblJQCMKJCawoJ5mavCqwc09IRwtp\nX9/K7M3RjSujPFFbD81502w6g2nateQKgzvkSVquvQLPxw30PM5kYYVplzWz3cOP\nWFugCzo5AgMBAAECggEAEoMNJ6gP4DvewNiXI9HRYL3Qybo7xdBu8hSMnHVZEjjg\nOOFA1QG4sNRdOau18kb96vFFn5F+3wiFtxpvE0dcmsGA9JBl1tplbPzOZNGQ19AM\n1qpCuLYyqydsNSMri1c3TmfQYLRRRrnCKQdXilBQf/tG5u3A41y+2L6uU2CiRzxa\nZpNM6ej127czyFD8+4pilLzUxMlZDcAf/d9y7l0P9A2eN/eFOc331N56M1BMv7oi\nDIRTIBhDrea0ryPSYE6CzQjmPghILvqurWtYxntRXVmPqfBaPwZXEZRIQzb5wQV3\naBZq9NIiGuzdENtHGub/+qJHRR7G3smITeLHx6sUgQKBgQD839+ZFMjVKph0vC34\nDUprZBaziE+YjvgLbGKnW25tt/z1KzxAaqn+i8sHEx9NtRdUySuB84/yBcCotHC6\neGiNCvZufywxtamJ4XS0++WxZcfJL3rXrlaAf3S40TMuVf7fJxm9/u/gapyQGND7\naYxN2WqSVHR9ZezU+eC+q3jnWQKBgQDwJJTnDM+Mgi6lpjawUiVxXoVkKRjH7Ac1\nyD/Aydi0kAGIZAm6XTv1CVfMmsm/Q1X704ajWHjHPhMDvUwPiYLHaPiANNr9EyKQ\n6tlDZMizoAF/m8Xe6iKvKZpl2mxKCL7n+sVc/6X2pZU/v7p8Pw2O2fyV3Mw6PadM\nXRo6wJ9t4QKBgQC9XRS/OP5QCy7RtB2kdKd3FiOd3ATnFKERRN/3vZNLXI10NyVO\ng9G7SYoHST2W3naTSnZnQTJZJg+pBj6olQSOIlh6VIeOziAgnZHc+gl+t95NfV27\nZ9VlMo0A3cA7AbD0AP7Y9bFCV/PYQI02yEqF/bs9yzrUsOASePDhN905OQKBgQDZ\naAT2eH6eMm2Qwj3Yu0XysSQKXbp1pJWSd0xgeVybe5Qnqom0Exxo5qB6N9hWM9vw\nNLw7vaj6mJQWWpY1qsSfS8VOLIvleiFdGYDApsmc9UrmAFzPRyFHe16wv2IyVGCh\nHEL5wui5t4a7RBTMzzizD17BPjgWsiJ33AIXFrQ/gQKBgGxUsoUUXcH1j8/TSomU\napUwHWkTMqhVZLLbQe18a4JKeet2/RuYUDLiu6bd5JRc1fiO68RoQ7yykuyJqprx\njLRHHw/yt4U186E3c/krLyVzNztABmpiq+E39xFvaeiArG9xx2SLCcaPYyXMxbJS\n59MAA1CUQ2QcjNEo5r+8WS0v\n-----END PRIVATE KEY-----\n",
+  "client_email": "rpidata@spry-byway-297308.iam.gserviceaccount.com",
+  "client_id": "103573755946799546884",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rpidata%40spry-byway-297308.iam.gserviceaccount.com"
+}
